@@ -1,1 +1,1 @@
-# Trivia_API-
+# Trivia-API
